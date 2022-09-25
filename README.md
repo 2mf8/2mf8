@@ -1,6 +1,6 @@
 # Hi there 👋
 
-This is 孙海春 (a.k.a 2mf8).
+This is 一仝 (a.k.a 2mf8).
 
 ![2mf8's GitHub stats](https://shc-umber.vercel.app/api?username=2mf8&show_icons=true)
 
